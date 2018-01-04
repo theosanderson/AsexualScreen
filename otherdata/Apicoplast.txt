@@ -1,0 +1,178 @@
+category	current_version_ID
+apicoplast DNA replication, repair & transcription	PBANKA_1438200
+apicoplast DNA replication, repair & transcription	PBANKA_1454000
+apicoplast DNA replication, repair & transcription	PBANKA_0520500
+apicoplast DNA replication, repair & transcription	PBANKA_1402600
+apicoplast DNA replication, repair & transcription	PBANKA_1031100
+apicoplast DNA replication, repair & transcription	PBANKA_1413400
+apicoplast DNA replication, repair & transcription	PBANKA_1313100
+apicoplast DNA replication, repair & transcription	PBANKA_1104000
+apicoplast DNA replication, repair & transcription	PBANKA_1103800
+apicoplast DNA replication, repair & transcription	PBANKA_1411800
+apicoplast DNA replication, repair & transcription	PBANKA_1406100
+apicoplast DNA replication, repair & transcription	PBANKA_1335900
+apicoplast DNA replication, repair & transcription	PBANKA_1036800
+apicoplast DNA replication, repair & transcription	PBANKA_0806100
+apicoplast DNA replication, repair & transcription	PBANKA_0301700
+apicoplast DNA replication, repair & transcription	PBANKA_0302400
+apicoplast DNA replication, repair & transcription	PBANKA_1108400
+apicoplast DNA replication, repair & transcription	PBANKA_0810600
+apicoplast DNA replication, repair & transcription	PBANKA_0416700
+iron sulphur cluster biosynthesis	PBANKA_0811900
+iron sulphur cluster biosynthesis	PBANKA_1416600
+iron sulphur cluster biosynthesis	PBANKA_1122100
+iron sulphur cluster biosynthesis	PBANKA_1237400
+iron sulphur cluster biosynthesis	PBANKA_1029200
+iron sulphur cluster biosynthesis	PBANKA_0943500
+iron sulphur cluster biosynthesis	PBANKA_0303800
+iron sulphur cluster biosynthesis	PBANKA_0614300
+iron sulphur cluster biosynthesis	PBANKA_0211300
+iron sulphur cluster biosynthesis	PBANKA_1318200
+iron sulphur cluster biosynthesis	PBANKA_1122400
+iron sulphur cluster biosynthesis	PBANKA_0822300
+isopentenyl diphosphate synthesis	PBANKA_1244600
+isopentenyl diphosphate synthesis	PBANKA_1107900
+isopentenyl diphosphate synthesis	PBANKA_0520000
+isopentenyl diphosphate synthesis	PBANKA_0806500
+isopentenyl diphosphate synthesis	PBANKA_1351000
+isopentenyl diphosphate synthesis	PBANKA_1330600
+isopentenyl diphosphate synthesis	PBANKA_0206400
+isopentenyl diphosphate synthesis	PBANKA_1102800
+isopentenyl diphosphate synthesis	PBANKA_0306400
+isopentenyl diphosphate synthesis	PBANKA_0507000
+isopentenyl diphosphate synthesis	PBANKA_0208700
+fatty acid biosynthesis	PBANKA_0932900
+fatty acid biosynthesis	PBANKA_1332800
+fatty acid biosynthesis	PBANKA_0923800
+fatty acid biosynthesis	PBANKA_1310100
+fatty acid biosynthesis	PBANKA_1307600
+fatty acid biosynthesis	PBANKA_0505000
+fatty acid biosynthesis	PBANKA_1416700
+fatty acid biosynthesis	PBANKA_1357500
+fatty acid biosynthesis	PBANKA_0707000
+fatty acid biosynthesis	PBANKA_0824500
+fatty acid biosynthesis	PBANKA_0714900
+fatty acid biosynthesis	PBANKA_1125100
+fatty acid biosynthesis	PBANKA_1338200
+fatty acid biosynthesis	PBANKA_0823800
+fatty acid biosynthesis	PBANKA_1410500
+fatty acid biosynthesis	PBANKA_1229800
+fatty acid biosynthesis	PBANKA_0521600
+fatty acid biosynthesis	PBANKA_0305600
+fatty acid biosynthesis	PBANKA_0308200
+fatty acid biosynthesis	PBANKA_0831200
+fatty acid biosynthesis	PBANKA_0929100
+protein translation	PBANKA_1332200
+protein translation	PBANKA_0703600
+protein translation	PBANKA_0101200
+protein translation	PBANKA_0305700
+protein translation	PBANKA_0403500
+protein translation	PBANKA_1016100
+protein translation	PBANKA_1007300
+protein translation	PBANKA_0802600
+protein translation	PBANKA_0703700
+protein translation	PBANKA_0515800
+protein translation	PBANKA_1008100
+protein translation	PBANKA_1201600
+protein translation	PBANKA_1143600
+protein translation	PBANKA_0814900
+protein translation	PBANKA_1109200
+protein translation	PBANKA_1114000
+protein translation	PBANKA_1213600
+protein translation	PBANKA_1133500
+protein translation	PBANKA_1022800
+protein translation	PBANKA_0834800
+protein translation	PBANKA_1440000
+protein translation	PBANKA_0702500
+protein translation	PBANKA_1025900
+protein translation	PBANKA_1203300
+protein translation	PBANKA_1446700
+protein translation	PBANKA_0826100
+protein translation	PBANKA_1431700
+protein translation	PBANKA_0922300
+protein translation	PBANKA_1464700
+protein translation	PBANKA_0930500
+protein translation	PBANKA_0409200
+protein translation	PBANKA_0615100
+protein translation	PBANKA_0833400
+protein translation	PBANKA_1029300
+protein translation	PBANKA_1324600
+protein translation	PBANKA_0911200
+protein translation	PBANKA_0940800
+protein translation	PBANKA_0608400
+protein translation	PBANKA_0819200
+protein translation	PBANKA_0408100
+protein translation	PBANKA_0715800
+protein translation	PBANKA_1013100
+protein translation	PBANKA_1015000
+protein translation	PBANKA_1237200
+protein translation	PBANKA_0111700
+protein translation	PBANKA_0703200
+protein translation	PBANKA_1330700
+protein translation	PBANKA_0518000
+protein translation	PBANKA_1102700
+protein translation	PBANKA_0606500
+protein translation	PBANKA_1427400
+protein translation	PBANKA_0504600
+protein translation	PBANKA_1451300
+tRNA modification	PBANKA_0815300
+tRNA modification	PBANKA_0927800
+tRNA modification	PBANKA_1328700
+tRNA modification	PBANKA_0504000
+tRNA modification	PBANKA_0914600
+tRNA modification	PBANKA_0502300
+tRNA modification	PBANKA_0606100
+tRNA modification	PBANKA_0314900
+tRNA modification	PBANKA_1306200
+tRNA modification	PBANKA_1417800
+tRNA modification	PBANKA_1231100
+tRNA modification	PBANKA_0718100
+tRNA modification	PBANKA_0941200
+tRNA modification	PBANKA_1411600
+tRNA modification	PBANKA_0713700
+chaperones & protein quality control & post-translational modification	PBANKA_1307800
+chaperones & protein quality control & post-translational modification	PBANKA_0809300
+chaperones & protein quality control & post-translational modification	PBANKA_1226200
+chaperones & protein quality control & post-translational modification	PBANKA_1410300
+chaperones & protein quality control & post-translational modification	PBANKA_0928500
+chaperones & protein quality control & post-translational modification	PBANKA_0714200
+chaperones & protein quality control & post-translational modification	PBANKA_0612000
+chaperones & protein quality control & post-translational modification	PBANKA_1035600
+chaperones & protein quality control & post-translational modification	PBANKA_0405700
+chaperones & protein quality control & post-translational modification	PBANKA_1418400
+chaperones & protein quality control & post-translational modification	PBANKA_1446800
+chaperones & protein quality control & post-translational modification	PBANKA_1347800
+chaperones & protein quality control & post-translational modification	PBANKA_0938300
+chaperones & protein quality control & post-translational modification	PBANKA_1127800
+chaperones & protein quality control & post-translational modification	PBANKA_0931200
+chaperones & protein quality control & post-translational modification	PBANKA_0310000
+chaperones & protein quality control & post-translational modification	PBANKA_1309900
+chaperones & protein quality control & post-translational modification	PBANKA_1450200
+protein import	PBANKA_1304200
+chaperones & protein quality control & post-translational modification	PBANKA_1320700
+protein import	PBANKA_1137000
+protein import	PBANKA_1449200
+protein import	PBANKA_0904300
+protein import	PBANKA_1243800
+protein import	PBANKA_1118600
+protein import	PBANKA_1221600
+protein import	PBANKA_1347900
+protein import	PBANKA_1141200
+protein import	PBANKA_0610600
+protein import	PBANKA_0715100
+protein import	PBANKA_1316000
+apicoplast transporters	PBANKA_0211900
+apicoplast transporters	PBANKA_1423800
+apicoplast transporters	PBANKA_0906700
+apicoplast transporters	PBANKA_0942100
+apicoplast transporters	PBANKA_1364800
+apicoplast transporters	PBANKA_0401200
+apicoplast transporters	PBANKA_0903500
+apicoplast transporters	PBANKA_1302900
+apicoplast transporters	PBANKA_1021500
+heme biosynthesis	PBANKA_0608000
+heme biosynthesis	PBANKA_1304100
+heme biosynthesis	PBANKA_0105900
+heme biosynthesis	PBANKA_1459200
+heme biosynthesis	PBANKA_1140700
+heme biosynthesis	PBANKA_0512200
